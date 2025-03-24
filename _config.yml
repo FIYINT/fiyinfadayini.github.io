@@ -1,5 +1,5 @@
 title:Titus fadayini
 logo:
 show_downloads: True
-theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme slate
 plugins: - jekyll-remote-theme
