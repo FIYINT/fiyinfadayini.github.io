@@ -12,9 +12,12 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 *![Screenshot of the project](docs/assets/Sales.PNG)
 * [This project is on performance, View Project on Github](https://github.com/FIYINT/PERFORMANCE-ANALYSIS-OIL-)
 * ![Screenshot of the project](docs/assets/oil image.PNG)
+#Data skills Traning
+[Educating the next generation of data analyst]()
+  
 
 # CONTACT DETAILS
-I[Email me](mailto:fiyinfadayini@gmail.com)
-II[Connect on linkedIn](https://www.linkedin.com/in/titus-fadayini-1b75a2176/)
-IIIPhone No: +234-7013231356
+|[Email me](mailto:fiyinfadayini@gmail.com)
+||[Connect on linkedIn](https://www.linkedin.com/in/titus-fadayini-1b75a2176/)
+||Phone No: +234-7013231356
 
