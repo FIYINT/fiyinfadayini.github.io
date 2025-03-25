@@ -8,9 +8,10 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 5. Staff Training & Development(Educator): I offer concise and comprehensive training programs in data analytics and visualization both pysically and online
    
 # PROJECTS
-*[This project is on sales, tools used for analysis is microsoft excel to find out more click on this link](https://github.com/FIYINT/SALES-PERFORMANCE)
+* [This project is on sales, tools used for analysis is microsoft excel to find out more click on this link](https://github.com/FIYINT/SALES-PERFORMANCE)
 *![Screenshot of the project](docs/assets/Sales.PNG)
-
+* [View Project on Github]()
+* ![Screenshot of the project](https://github.com/FIYINT/PERFORMANCE-ANALYSIS-OIL-)
 
 # CONTACT DETAILS
 
