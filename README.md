@@ -12,7 +12,8 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 *![Screenshot of the project](docs/assets/Sales.PNG)
 * [This project is on performance, View Project on Github](https://github.com/FIYINT/PERFORMANCE-ANALYSIS-OIL-)
 * ![Screenshot of the project](docs/assets/oil image.PNG)
-#Data skills Traning
+
+##Data skills Traning
 [Educating the next generation of data analyst]()
   
 
