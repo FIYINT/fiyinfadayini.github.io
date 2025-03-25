@@ -4,6 +4,10 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 1. Data analysis skills: Data cleaning and Transformation, Data modelling, Statistical analysis 
 2. Technical skills: Scripting languages(Python and R), Query language(SQL:MYSQL,POSTGRES),data visualization
 3. Communication skills; Data Storytelling, Reporting and Presentation(using tools like Canva, Powerpoint Power Bi AND Excel)
-4. Domain Knowledge: I specialise in the following domain anlaysis; Sales, Procurement, Performance, Healthcare.
+4. Domain Knowledge: I specialise in analysis of the following domain; Sales, Procurement, Performance, Healthcare.
+5. Staff Training & Development: I offer concise and comprehensive training programs in data analytics and visualization both pysically and online
 # PROJECTS
+
+
+# CONTACT DETAILS
 
