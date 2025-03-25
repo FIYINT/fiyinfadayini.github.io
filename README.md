@@ -15,13 +15,14 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 
 
 
-#Data Skills Traning
+Data Skills Traning
 
 [Educating the next generation of data analyst]()
+
 ![Pictures of classes](docs/assets/IMG-20250227-WA0031.jpg)
 ![pictures of class](docs/assets/IMG-20250227-WA0033.jpg)
 ![Pictures](docs/assets/IMG-20250227-WA0035.jpg)
-![pictures]()
+![pictures](docs/assets/IMG_20250323_160144.jpg)
   
 
 # CONTACT DETAILS
