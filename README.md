@@ -14,7 +14,7 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 * ![Screenshot of the project](docs/assets/oil image.PNG)
 
 # CONTACT DETAILS
-*[Email me](mailto:fiyinfadayini@gmail.com)
-*[Connect on linkedIn](https://www.linkedin.com/in/titus-fadayini-1b75a2176/)
-*Phone No: +234-7013231356
+I[Email me](mailto:fiyinfadayini@gmail.com)
+II[Connect on linkedIn](https://www.linkedin.com/in/titus-fadayini-1b75a2176/)
+IIIPhone No: +234-7013231356
 
