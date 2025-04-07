@@ -22,7 +22,7 @@ Data Skills Traning
 ![Pictures of classes](docs/assets/IMG-20250227-WA0031.jpg)
 ![pictures of class](docs/assets/IMG-20250227-WA0033.jpg)
 ![Pictures](docs/assets/IMG-20250227-WA0035.jpg)
-![pictures](docs/assets/IMG_20250323_160144.jpg)
+![pictures](docs/assets/ASH Native 2.jpeg)
   
 
 # CONTACT DETAILS
