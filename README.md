@@ -12,6 +12,7 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 *![Screenshot of the project](docs/assets/Sales.PNG)
 * [This project is on procurement, View Project on Github](https://github.com/FIYINT/PROCUREMENT_ANALYSIS)
 * ![Screenshot of the project](docs/assets/image 1 procure.png)
+* ![Screenshot of the project](docs/assets/Image 2 procure.png)
 
 
 
