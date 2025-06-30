@@ -10,6 +10,7 @@ As a Business Intelligence Analyst, I specialize in transforming data into actio
 # PROJECTS
 * [This project is on sales, tools used for analysis is microsoft excel to find out more click on this link](https://github.com/FIYINT/SALES-PERFORMANCE)
 * [This project is on procurement, View Project on Github](https://github.com/FIYINT/PROCUREMENT_ANALYSIS)
+* [this project is on Sales, view more projects on Github](https://github.com/FIYINT/SALES-PERFORMANCE)
 * ![Screenshot of the project](docs/assets/image 1 procure.png)
 * ![Screenshot of the project2](docs/assets/Image 2 procure.png)
 
